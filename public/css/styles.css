@@ -1,0 +1,95 @@
+body{
+    background-color: antiquewhite;
+}
+.chat{
+    display: flex;
+}
+
+.chat__sidebar{
+    background-color: whitesmoke;
+    width: 20%;
+    height: 100vh;
+    position: fixed;
+}
+.chat__main{
+    margin-left: 23%;
+    background-color:transparent;
+    width: 100%;   
+    padding: 20px;
+    position: relative;
+}
+
+form{
+    
+    bottom: 0px;
+    margin-top: 80px;
+}
+input{
+    position: fixed;
+    bottom: 0;
+    width: 50%;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.button1{
+    position: fixed;
+    bottom: 0;
+    left: 76%;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 20px;
+    width: 10%;
+    background-color: darkseagreen;
+    color: white;
+    margin-left: 15px;
+}
+.button2{
+    position: fixed;
+    bottom: 0;
+    left: 88%;
+    margin-bottom: 15px;
+    padding: 5px;
+    border-radius: 20px;
+    width: 40px;
+    background-color: darkseagreen;
+    color: white;
+}
+
+
+.message__name{
+    font-weight: bolder;
+    padding-right: 10px;
+}
+.message__meta{
+    font-size: smaller;
+}
+
+a{
+    color:darkseagreen ;
+}
+
+.room-title{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    background-color: rgb(215, 209, 209);
+    padding: 20px;
+}
+
+.list-title{
+    padding: 20px;
+    background-color: rgb(8, 7, 7);
+    color: white;
+}
+li{
+    background-color: darkseagreen;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    
+    
+}
+
+
