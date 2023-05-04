@@ -1,3 +1,3 @@
 # ChatApp-Nodejs
 
-https://melted-fang-production.up.railway.app/
+https://chatapp-nodejs-production.up.railway.app/
