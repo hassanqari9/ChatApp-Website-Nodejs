@@ -1,3 +1,3 @@
 # ChatApp-Nodejs
 
-https://chatapp-nodejs-production.up.railway.app/
+https://chatapp-website-nodejs-production.up.railway.app
